@@ -6,7 +6,7 @@ public class Factorial {
 	
 	
 	
-	------//ESTO ES UNA SEGUNDA MODIFICACION------///
+	//------//ESTO ES UNA SEGUNDA MODIFICACION------///
 	
 	
 	
