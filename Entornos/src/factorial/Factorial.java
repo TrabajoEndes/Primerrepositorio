@@ -1,7 +1,7 @@
 package factorial;
 
 public class Factorial {
-		//ESTOY MODIFICANDO ESTE ARCHIVO
+		//ESTOY MODIFICANDO ESTE ARCHIVOo
 	
 		// TODO Auto-generated method stub
 		
